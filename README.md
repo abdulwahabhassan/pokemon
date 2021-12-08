@@ -1,43 +1,7 @@
-# WEEK-SEVEN-ANDROID-SQ09
+# pokemon
+This app allows users to search all Pokemon characters in the Pokemon universe
 
-## Multithreading and Networking 
-
- 
- 
-
-# Problem Description 
-
-Fetch information from the server.  
-
- 
- 
-
-# Implementation 1 : 
-
-Using the api provided on https://pokeapi.co/ build an application that shows a list of all the pokemon characters and their pictures with a nice looking UI. 
-
-When a pokemon character is clicked it should lead to a page with full details of the character pulled from the appropriate endpoint with all images, move, abilities, stats etc showing at different sections. 
-
-Expectation: 
-
- * Show appropriate information for appropriate endpoint 
-
- * Your app should not crash when network is turned off 
-
- * I should be able to set the limit of information I wish to see 
-
- 
-
- 
-
-# Implementation 2: 
-
-Using the api provided on https://darot-image-upload-service.herokuapp.com/api/v1/upload. Your app should select an image from your gallery and upload said image to the server and return a success or fail message 
-
-Expectation: 
-
- * Ask for permission when app is launched 
-
- * If permission is denied display an error message in a textfield 
-
- * There should be a button to ask again if permission is denied 
+# screenshots
+|![screen-shot-2](screenshot2-pokemon.jpg)|![screen-shot-1](screenshot1-pokemon.jpg)|![screen-shot-3](screenshot3-pokemon.jpg)|
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+|![screen-shot-4](screenshot4-pokemon.jpg)|![screen-shot-5](screenshot5-pokemon.jpg)|![screen-shot-6](screenshot6-pokemon.jpg)|
